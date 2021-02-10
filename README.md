@@ -49,4 +49,13 @@ def fun();
 `
 fun()
 `
+## Task
+```
+def fun();  
+     print("Heavy Metal Rock")
+```
+## Function Calling
+`
+fun()
+`
 
