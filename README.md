@@ -26,3 +26,11 @@ __*Alexa*__
  > Syntax
  >> bold
  >>> Italic
+##Ordered List
+1. Snare
+2. Tom
+3. Symbol
+ 1. Tom1
+ 2. Tom2
+4. Heavy Metal
+ 
