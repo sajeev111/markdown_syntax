@@ -101,3 +101,6 @@ fun()
   - to recieve github files from rerpository to local system
 ## Inserting images
 ![cycling](https://github.com/sajeev111/markdown_syntax/blob/master/01.jpg)
+## inserting videos
+[![Palasa](https://img.youtube.com/vi/o4ox_7oLabg.jpg)
+)](https://www.youtube.com/watch?v=o4ox_7oLabg)
