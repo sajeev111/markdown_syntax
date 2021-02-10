@@ -41,10 +41,10 @@ __*Alexa*__
     * CSE-A
     * CSE-B
 ## code
-`
+```
 def fun();
-    print("Rockload Studios
-`
+     print("Rockload Studios")
+```
 ## Function Calling
 `
 fun()
