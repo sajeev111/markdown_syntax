@@ -6,3 +6,11 @@ Day2
 #### Analysis
 ##### Output Observation
 ###### Conclusion
+**Alexa**
+__Siri__
+
+*Alexa*
+_SIRI_
+
+**_Goole Assistant_**
+__*Alexa*__
