@@ -100,4 +100,4 @@ fun()
 - git pull remotename branchname
   - to recieve github files from rerpository to local system
 ## Inserting images
-![Cycling](https://github.com/sajeev111/markdown_syntax/blob/master/01.jpg)
+![cycling](https://github.com/sajeev111/markdown_syntax/blob/master/01.jpg)
