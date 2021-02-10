@@ -61,3 +61,6 @@ fun()
 ## Links
 [Metallica](https://www.metallica.com/)
 
+[System Of a Down](https://www.instagram.com/systemofadown/)
+
+[KITS](https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
