@@ -30,7 +30,7 @@ __*Alexa*__
 1. Snare
 2. Tom
 3. Symbol
-  1. Tom1
-  2. Tom2
+    1. Tom1
+    1. Tom2
 4. Heavy Metal
  
