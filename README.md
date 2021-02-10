@@ -40,5 +40,13 @@ __*Alexa*__
 - CSE
     * CSE-A
     * CSE-B
-     
+## code
+`
+def fun();
+    print("Rockload Studios
+`
+## Function Calling
+`
+fun()
+`
 
