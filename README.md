@@ -102,5 +102,5 @@ fun()
 ## Inserting images
 ![cycling](https://github.com/sajeev111/markdown_syntax/blob/master/01.jpg)
 ## inserting videos
-[![Palasa](https://img.youtube.com/vi/o4ox_7oLabg.jpg)
+[![Palasa](https://img.youtube.com/vi/o4ox_7oLabg/0.jpg)
 )](https://www.youtube.com/watch?v=o4ox_7oLabg)
